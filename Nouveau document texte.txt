@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ranger maitre ou HTML :</title>
+    <H1><b>Marie de fontainebleau</b></H1>
+  </head>
+</html>
+<body>
+  <img src="44.jpg">
+  <br>
+  <p>
+  <b>Adresse</b>
+  <h6>40 Rue grand 77300 fontainebleau </h6>
+</p>
+<p>
+  <b> Telephone </b>
+  <br>
+  <a href="tel:+1234567890">1234567890</a>
+</p>
+  <p>
+    <b>site internet </b>
+    <br>
+    <a href="https://www.google.com/">https://www.google.com/</a>
+  </p>
+  <h1>Horaire</h1>
+  <table>
+    <tr>
+      <th>Jour</th>
+      <th> matin </th>>
+      <th>apres midi</th>
+    </tr>
+    <tr>
+      <td></td>
+      <td>9h00</td>
+      <td>18h00</td>
+    </tr>
+    <tr>
+      <td>Mardi</td>
+      <td>9h00</td>
+      <td>18h00</td>
+    </tr>
+    <tr>
+      <td>Mercredi</td>
+      <td>9h00</td>
+      <td>18h00</td>
+    </tr>
+    <tr>
+      <td>Jeudi</td>
+      <td>9h00</td>
+      <td>18h00</td>
+    </tr>
+    <tr>
+      <td>Vendredi</td>
+      <td>9h00</td>
+      <td>18h00</td>
+    </tr>
+    <tr>
+      <td>Samedi</td>
+      <td>9h00</td>
+      <td>13h00</td>
+    </tr>
+    <tr>
+      <td>Dimanche</td>
+      <td>Fermé</td>
+      <td>Fermé</td>
+    </tr>
+  </table>
+</body>
+</html>
+
+</body>
+git
+Dell@DESKTOP-GQ4KOUO MINGW64 ~/Desktop
+$ git config --global user.name "houssy"
+
+Dell@DESKTOP-GQ4KOUO MINGW64 ~/Desktop
+$ git config --global user.email "touhamiihossy@gmail.com"
+
+Dell@DESKTOP-GQ4KOUO MINGW64 ~/Desktop
+$ git clone https://github.com/houssy14/houssem2.git
+Cloning into 'houssem2'...
+warning: You appear to have cloned an empty repository.
+
+Dell@DESKTOP-GQ4KOUO MINGW64 ~/Desktop
+$ ^C
